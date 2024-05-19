@@ -89,7 +89,7 @@ Created on Thu May 16 19:12:33 2024
  #  print("Mijoz assorti oldi")
   # narh=narh+6000
    
-
+# these are books because Whenever Ihave some free time I read these books
 #print(f"Jami {narh} so'm")  
  # in operatori biz menun ichida bor yoki yoq ekanligini tekshirishimiz mumkun
 #menu=["osh","qazonkabob","shashlik","nrin","somsa"]
