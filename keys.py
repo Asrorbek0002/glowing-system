@@ -14,5 +14,5 @@ print(xabar)
 radius=5
 pi=3.14159
 aylanani_yuzi='pi*(radius)**2'
-
+# this is amazing 
 print("Radius",radius,"ga teng bo'gan aylanani yuzi",pi*(radius)**2)
